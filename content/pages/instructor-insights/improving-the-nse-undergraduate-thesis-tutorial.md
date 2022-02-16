@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 251d5531-d025-7d7c-36c3-54f02a7236b9
 title: 'Improving the NSE Undergraduate Thesis Tutorial '
 uid: 367bd643-683b-4f4b-071f-5fe3025b8d17

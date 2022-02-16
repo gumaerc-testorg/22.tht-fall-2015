@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Guides, Templates and Tools
 uid: 1f51caf7-e077-166d-04b1-1917d03a488c
 ---
@@ -56,7 +58,7 @@ Nicolas Lopez
 Minh Dinh
 {{< tdclose >}}
 {{< tdopen >}}
-[Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (Nd2NiO4+δ and ZrO2) (PDF - 1.5MB)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam3) (Courtesy of Minh Dinh. Used with permission.)
+[Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (Nd{{< sub "2" >}}NiO{{< sub "4+δ" >}} and ZrO{{< sub "2" >}}) (PDF - 1.5MB)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam3) (Courtesy of Minh Dinh. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
 [First-principles Study of the Surfaces of Zirconium during Early Stages of Metal Oxidation (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex3)

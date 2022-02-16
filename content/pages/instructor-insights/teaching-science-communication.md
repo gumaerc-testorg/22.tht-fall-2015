@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 251d5531-d025-7d7c-36c3-54f02a7236b9
 title: Teaching Science Communication
 uid: 2cb282e5-6446-bdd1-9d98-a26c36c9a4b4
