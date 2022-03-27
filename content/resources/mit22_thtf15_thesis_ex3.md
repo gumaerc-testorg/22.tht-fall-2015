@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Guides, Templates and Tools
 parent_type: CourseSection
+parent_uid: 1f51caf7-e077-166d-04b1-1917d03a488c
 resourcetype: Document
 title: First-principles study of the surfaces of zirconium during early stages of
   metal oxidation

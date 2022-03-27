@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c870da42-29dc-d989-7269-a35d128c2619
 resourcetype: Document
 title: Treatment of Neutron Resonance Elastic Scattering Using Multipole Representation
   of Cross Sections in Monte Carlo Simulations

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Guides, Templates and Tools
 parent_type: CourseSection
+parent_uid: 1f51caf7-e077-166d-04b1-1917d03a488c
 resourcetype: Document
 title: Templates for NSE S.B. Thesis Cover Page and Abstract Page
 uid: 3e0c6b57-afa2-89ce-53a8-719167e72fee
