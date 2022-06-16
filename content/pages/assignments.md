@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, associated
+  resources, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Assignments
 uid: c870da42-29dc-d989-7269-a35d128c2619
 ---
 
-A [sample prospectus]({{< baseurl >}}/pages/assignments#final_prospectus) produced by a student in this course is provided at the end of the table. Additional sample work by prior years' students is on the [Guides, Templates and Tools]({{< baseurl >}}/pages/guides-templates-and-tools) page.
+A {{% resource_link c870da42-29dc-d989-7269-a35d128c2619 "sample prospectus" "#final_prospectus" %}} produced by a student in this course is provided at the end of the table. Additional sample work by prior years' students is on the {{% resource_link 1f51caf7-e077-166d-04b1-1917d03a488c "Guides, Templates and Tools" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -100,7 +102,7 @@ Write a fully detailed outline of all the relevant sections and sub-sections in 
 
 This assignment is, in essence, writing the fully detailed Table of Contents of your thesis, plus 2–3 sentences in each sub-section of what each one will contain.
 
-Please see the [example theses]({{< baseurl >}}/pages/guides-templates-and-tools) from prior year students for an appropriate amount of detail in a Table of Contents.
+Please see the {{% resource_link 1f51caf7-e077-166d-04b1-1917d03a488c "example theses" %}} from prior year students for an appropriate amount of detail in a Table of Contents.
 
 
 {{< tdclose >}}
@@ -176,7 +178,7 @@ Submit the comments and suggestions from the WRAP here, along with a revised ver
 
 Submit a finished copy of your thesis prospectus, with all pages signed and nothing missing. These will be graded carefully, as they are the final output of this course.
 
-Sample student work: Tran, Vivian Y. ["Treatment of Neutron Resonance Elastic Scattering Using Multipole Representation of Cross Sections in Monte Carlo Simulations." (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_ex1) (Courtesy of Vivian Y. Tran. Used with permission.)
+Sample student work: Tran, Vivian Y. {{% resource_link 6458e828-8e0a-4877-c03b-6851cd993083 "\"Treatment of Neutron Resonance Elastic Scattering Using Multipole Representation of Cross Sections in Monte Carlo Simulations.\" (PDF)" %}} (Courtesy of Vivian Y. Tran. Used with permission.)
 
 
 {{< tdclose >}}
