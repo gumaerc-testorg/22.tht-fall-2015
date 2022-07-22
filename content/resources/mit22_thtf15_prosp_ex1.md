@@ -7,6 +7,7 @@ file: /courses/22-tht-undergraduate-thesis-tutorial-fall-2015/6458e8288e0a4877c0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Treatment of Neutron Resonance Elastic Scattering Using Multipole Represe
 uid: 6458e828-8e0a-4877-c03b-6851cd993083
 ---
 Example of student work: a senior thesis on treatment of neutron resonance elastic scattering using multipole representation of cross sections in Monte Carlo simulations.
-

@@ -10,10 +10,10 @@ image_metadata:
   credit: Courtesy of Ricardo Sosa on Flickr. License CC BY-NC.
   image-alt: Photo of hardbound academic theses on library shelves.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Bound theses on a library shelf (thumbnail)
 uid: 6a5aaf41-0f5f-0e9c-a3d4-6464e162b684
 ---
 Thumbnail image of bound theses on a library shelf. Courtesy of Ricardo Sosa on Flickr. License CC BY-NC.
-
