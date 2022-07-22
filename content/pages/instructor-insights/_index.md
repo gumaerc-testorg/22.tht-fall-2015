@@ -1,31 +1,32 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 251d5531-d025-7d7c-36c3-54f02a7236b9
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _22.THT NSE Undergraduate Thesis Tutorial_ as it was taught by Prof. Michael P. Short, Christine Sherratt, and Jane E. Kokernak in Fall 2015.
 
 This interactive seminar guides students through various aspects of choosing, proposing, and executing original thesis work. Major topics covered include: choosing a thesis topic; setting concrete goals and milestones; identifying efficient document writing tools; maintaining good communication with one’s thesis advisor; and finding and citing primary resources from the literature.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Learn how to choose a project topic, considering available time and resources
-*   Practice efficiently finding and properly citing scientific resources
-*   Learn how to efficiently author a scientific document without doing busy work
-*   Practice presenting your research in 30 seconds or less, in an impactful elevator pitch
-*   Outline a thesis in a detailed manner, to help guide both your research and writing
-*   Develop your own personal, scientific writing style
+- Learn how to choose a project topic, considering available time and resources
+- Practice efficiently finding and properly citing scientific resources
+- Learn how to efficiently author a scientific document without doing busy work
+- Practice presenting your research in 30 seconds or less, in an impactful elevator pitch
+- Outline a thesis in a detailed manner, to help guide both your research and writing
+- Develop your own personal, scientific writing style
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -41,121 +42,68 @@ Every fall semester
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "Science is equal parts careful discovery of the laws of nature and effective communication." "— Michael Short" >}}
 
-_Below, Prof. Michael P. Short describes various aspects of how he taught 22.THT NSE Undergraduate Thesis Tutorial._
+_Below, Prof. Michael P. Short describes various aspects of how he taught_ 22.THT NSE Undergraduate Thesis Tutorial.
 
-*   [Improving the NSE Undergraduate Thesis Tutorial]({{< baseurl >}}/pages/instructor-insights/improving-the-nse-undergraduate-thesis-tutorial)
-*   [Teaching Science Communication]({{< baseurl >}}/pages/instructor-insights/teaching-science-communication)
+- {{% resource_link 367bd643-683b-4f4b-071f-5fe3025b8d17 "Improving the NSE Undergraduate Thesis Tutorial" %}}
+- {{% resource_link 2cb282e5-6446-bdd1-9d98-a26c36c9a4b4 "Teaching Science Communication" %}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< thopen >}}
 Assignment
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 Percentage
-{{< thclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Thesis Topic and Elevator Pitch
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Central Hypothesis (3–5 Sentences)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Hypothesis Revision and Signoff
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Rough Drafts of Thesis Prospectus and Outline
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 10
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Communications Lab Review
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 10
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Detailed Thesis Outline
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 10
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Thesis Introduction and Background Sections
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 10
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Writing, Rhetoric, and Professional Communication (WRAP) Review
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 5
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< tropen >}}{{< thopen >}}
 Final Prospectus
-{{< tdclose >}}
-{{< tdopen >}}
+{{< thclose >}}{{< thopen >}}
 40
-{{< tdclose >}}
+{{< thclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
+## Student Information
 
-{{< tableclose >}}
+### Enrollment
 
-Student Information
--------------------
-
-![10 students took this course when it was offered in Fall 2015.]({{< resource_file 94ce1ede-6a54-c9c1-29a3-110949e694d2 >}})
+10 students
 
 ### Breakdown by Year
 
@@ -167,18 +115,15 @@ Nuclear Science & Engineering majors
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 3 hours on the course, roughly divided as follows:
 
-In class
---------
+### In class
 
-*   Met 1 time per week for 1 hour per session; 13 sessions total.
-*   Students were supported in developing key aspects of their prospectuses.
+- Met 1 time per week for 1 hour per session; 13 sessions total.
+- Students were supported in developing key aspects of their prospectuses.
 
-Out of Class
-------------
+### Out of Class
 
 Students drafted and revised their prospectuses in consultation with Graduate Fellows in the [NSE Communication Lab](http://web.mit.edu/nse/education/commlab/) and [WRAP](http://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) staff.

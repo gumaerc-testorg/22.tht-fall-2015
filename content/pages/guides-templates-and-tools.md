@@ -1,15 +1,18 @@
 ---
 content_type: page
+description: This section provides style guides and templates, sample work from prior
+  students, and links to useful technical writing tools.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Guides, Templates and Tools
 uid: 1f51caf7-e077-166d-04b1-1917d03a488c
 ---
-
 Style Guides and Templates
 --------------------------
 
 [MIT Libraries Thesis Preparation Styles and Requirements](http://libraries.mit.edu/archives/thesis-specs/)
 
-[Templates for NSE S.B. Thesis Cover Page and Abstract Page (PDF)]({{< baseurl >}}/resources/mit22_thtf15_assn_cov_abs)
+{{% resource_link 3e0c6b57-afa2-89ce-53a8-719167e72fee "Templates for NSE S.B. Thesis Cover Page and Abstract Page (PDF)" %}}
 
 Editable theses for use as templates:
 
@@ -44,10 +47,10 @@ THESIS
 Nicolas Lopez
 {{< tdclose >}}
 {{< tdopen >}}
-[Development of a Nanoscale Magnetometer Through Utilization of the Nitrogen-Vacancy Defect in Diamonds (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam2) (Courtesy of Nicolas Lopez. Used with permission.)
+{{% resource_link 077c9940-3303-520d-a6a8-a94745616e3f "Development of a Nanoscale Magnetometer Through Utilization of the Nitrogen-Vacancy Defect in Diamonds (PDF)" %}} (Courtesy of Nicolas Lopez. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[All-Optical Method of Nanoscale Magnetometry for Ensembles of Nitrogen-Vacancy Defects in Diamond (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex2)
+{{% resource_link 5f57eef3-e92c-932c-747b-b8faf5413b0d "All-Optical Method of Nanoscale Magnetometry for Ensembles of Nitrogen-Vacancy Defects in Diamond (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,10 +59,10 @@ Nicolas Lopez
 Minh Dinh
 {{< tdclose >}}
 {{< tdopen >}}
-[Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (Nd2NiO4+δ and ZrO2) (PDF - 1.5MB)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam3) (Courtesy of Minh Dinh. Used with permission.)
+{{% resource_link 39eb5af1-8ab8-f7c2-4be0-43712de31b16 "Effect of Lattice Strain on Stoichiometry and Ionic Transport in Oxide Materials (Nd{{< sub \"2\" >}}NiO{{< sub \"4+δ\" >}} and ZrO{{< sub \"2\" >}}) (PDF - 1.5MB)" %}} (Courtesy of Minh Dinh. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[First-principles Study of the Surfaces of Zirconium during Early Stages of Metal Oxidation (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex3)
+{{% resource_link 99031d6d-7335-291c-4eea-27a3b5b851ca "First-principles Study of the Surfaces of Zirconium during Early Stages of Metal Oxidation (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,10 +71,10 @@ Minh Dinh
 MIT student
 {{< tdclose >}}
 {{< tdopen >}}
-[Design, Fabrication, Testing, and Application of a Sub-Wave length Microwave Lens (PDF)]({{< baseurl >}}/resources/mit22_thtf15_prosp_sam4) (Courtesy of MIT student. Used with permission.)
+{{% resource_link a600f6e0-867f-03f5-ef02-337a1ee382bf "Design, Fabrication, Testing, and Application of a Sub-Wave length Microwave Lens (PDF)" %}} (Courtesy of MIT student. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Design, Fabrication, Testing, and Application of a Sub-Wavelength Microwave Lens (PDF)]({{< baseurl >}}/resources/mit22_thtf15_thesis_ex4)
+{{% resource_link c5186e45-4812-e180-34a2-11e912476db6 "Design, Fabrication, Testing, and Application of a Sub-Wavelength Microwave Lens (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
