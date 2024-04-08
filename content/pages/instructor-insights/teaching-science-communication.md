@@ -29,7 +29,7 @@ In surveys, MIT Nuclear Science and Engineering alumni tell us that we need to i
 
 I think the School of Engineering is now recognizing just how important it is to actively teach science communication. A few departments—so far, Biological Engineering, Nuclear Science and Engineering, and Electrical Engineering and Computer Science—have launched communication labs staffed by Graduate Fellows who are both excellent communicators and content experts. This is progress.
 
-We try to support our students in the course by requiring that they have their prospectuses reviewed by Graduate Fellows in the [Nuclear Science & Engineering Communication Lab](http://web.mit.edu/nse/education/commlab/). Among other things, these Fellows help students communicate effectively with audiences in their specific academic fields.
+We try to support our students in the course by requiring that they have their prospectuses reviewed by Graduate Fellows in the {{% resource_link "c77faab5-7077-484a-9a34-61e6cca391be" "Nuclear Science & Engineering Communication Lab" %}}. Among other things, these Fellows help students communicate effectively with audiences in their specific academic fields.
 
 ## Contextualizing Research for an Audience
 
