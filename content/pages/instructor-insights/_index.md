@@ -11,7 +11,7 @@ uid: 251d5531-d025-7d7c-36c3-54f02a7236b9
 ---
 ## Course Overview
 
-This page focuses on the course _22.THT NSE Undergraduate Thesis Tutorial_ as it was taught by Prof. Michael P. Short, Christine Sherratt, and Jane E. Kokernak in Fall 2015.
+This page focuses on the course *22.THT NSE Undergraduate Thesis Tutorial* as it was taught by Prof. Michael P. Short, Christine Sherratt, and Jane E. Kokernak in Fall 2015.
 
 This interactive seminar guides students through various aspects of choosing, proposing, and executing original thesis work. Major topics covered include: choosing a thesis topic; setting concrete goals and milestones; identifying efficient document writing tools; maintaining good communication with one’s thesis advisor; and finding and citing primary resources from the literature.
 
@@ -30,11 +30,11 @@ This interactive seminar guides students through various aspects of choosing, pr
 
 ### Prerequisites
 
-_22.09 Principles of Nuclear Radiation Measurement & Protection_
+*22.09 Principles of Nuclear Radiation Measurement & Protection*
 
 ### Requirements Satisfied
 
-[Nuclear Science and Engineering bachelor’s degree requirement](http://web.mit.edu/nse/education/undergrad/curriculum.html)
+{{% resource_link "0fff7732-a3c1-4bdd-8f7d-a70f088f1511" "Nuclear Science and Engineering bachelor’s degree requirement" %}}
 
 ### Offered
 
@@ -46,10 +46,10 @@ Every fall semester
 
 {{< quote "Science is equal parts careful discovery of the laws of nature and effective communication." "— Michael Short" >}}
 
-_Below, Prof. Michael P. Short describes various aspects of how he taught_ 22.THT NSE Undergraduate Thesis Tutorial.
+*Below, Prof. Michael P. Short describes various aspects of how he taught* 22.THT NSE Undergraduate Thesis Tutorial.
 
-- {{% resource_link 367bd643-683b-4f4b-071f-5fe3025b8d17 "Improving the NSE Undergraduate Thesis Tutorial" %}}
-- {{% resource_link 2cb282e5-6446-bdd1-9d98-a26c36c9a4b4 "Teaching Science Communication" %}}
+- {{% resource_link "367bd643-683b-4f4b-071f-5fe3025b8d17" "Improving the NSE Undergraduate Thesis Tutorial" %}}
+- {{% resource_link "2cb282e5-6446-bdd1-9d98-a26c36c9a4b4" "Teaching Science Communication" %}}
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
@@ -126,4 +126,4 @@ During an average week, students were expected to spend 3 hours on the course, r
 
 ### Out of Class
 
-Students drafted and revised their prospectuses in consultation with Graduate Fellows in the [NSE Communication Lab](http://web.mit.edu/nse/education/commlab/) and [WRAP](http://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) staff.
+Students drafted and revised their prospectuses in consultation with Graduate Fellows in the {{% resource_link "c77faab5-7077-484a-9a34-61e6cca391be" "NSE Communication Lab" %}} and {{% resource_link "5cd90755-efe8-4450-85bf-1faef4c97674" "WRAP" %}} staff.

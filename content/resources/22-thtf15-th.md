@@ -3,10 +3,11 @@ content_type: resource
 description: Thumbnail image of bound theses on a library shelf. Courtesy of Ricardo
   Sosa on Flickr. License CC BY-NC.
 file: /courses/22-tht-undergraduate-thesis-tutorial-fall-2015/6a5aaf410f5f0e9ca3d46464e162b684_22-thtf15-th.jpg
+file_size: 11725
 file_type: image/jpeg
 image_metadata:
-  caption: Bound theses on a library shelf. (Courtesy of [Ricardo Sosa](https://www.flickr.com/photos/chocogato/2176357791/)
-    on Flickr. License CC BY-NC.)
+  caption: Bound theses on a library shelf. (Courtesy of {{% resource_link "00504668-48a3-4a2e-afd2-1a4aeb340374"
+    "Ricardo Sosa" %}} on Flickr. License CC BY-NC.)
   credit: Courtesy of Ricardo Sosa on Flickr. License CC BY-NC.
   image-alt: Photo of hardbound academic theses on library shelves.
 learning_resource_types: []
