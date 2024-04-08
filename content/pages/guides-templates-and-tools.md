@@ -10,7 +10,7 @@ uid: 1f51caf7-e077-166d-04b1-1917d03a488c
 Style Guides and Templates
 --------------------------
 
-[MIT Libraries Thesis Preparation Styles and Requirements](http://libraries.mit.edu/archives/thesis-specs/)
+{{% resource_link "13616f8b-3631-45e1-a3e8-91c4c2156614" "MIT Libraries Thesis Preparation Styles and Requirements" %}}
 
 {{% resource_link 3e0c6b57-afa2-89ce-53a8-719167e72fee "Templates for NSE S.B. Thesis Cover Page and Abstract Page (PDF)" %}}
 
@@ -84,17 +84,17 @@ MIT student
 Useful Technical Writing Tools
 ------------------------------
 
-*   [Beall's List of “potential, possible, or probable” predatory open-access publishers 2015](http://scholarlyoa.com/publishers/)  
-    Be wary of using journals on this list in your research. However, don't assume that mere presence on this list constitutes a disreputable journal. Beall's List is a self-maintained site, and there is some debate about its objectiveness and accuracy. See "[Beyond Beall’s List: Better understanding predatory publishers](http://crln.acrl.org/content/76/3/132.full)" and ["Ethics and Access 1: The Sad Case of Jeffrey Beall" (PDF)](http://citesandinsights.info/civ14i4.pdf) for critiques. A case of a publisher being added and later removed after protest is described in [Beall's own blog post](https://publons.com/blog/bealls-list-gone-but-not-lost/) and the [corresponding publisher's notice](http://www.mdpi.com/about/announcements/534). Let's just say that you should consider your sources very carefully, and look for your own warning signs of low quality, predatory publishing practices, or something not sounding right.
-*   [LyX](http://www.lyx.org/Download)  
+*   {{% resource_link "64577ea0-ac51-45cb-87f4-1a6c44e86805" "Beall's List of “potential, possible, or probable” predatory open-access publishers 2015" %}}  
+    Be wary of using journals on this list in your research. However, don't assume that mere presence on this list constitutes a disreputable journal. Beall's List is a self-maintained site, and there is some debate about its objectiveness and accuracy. See "{{% resource_link "a7dc5b37-b28d-4d9a-9835-55cd556e3472" "Beyond Beall’s List: Better understanding predatory publishers" %}}" and {{% resource_link "5d159f10-3e95-4ad8-9a32-7ceb60f26c81" "\"Ethics and Access 1: The Sad Case of Jeffrey Beall\" (PDF)" %}} for critiques. A case of a publisher being added and later removed after protest is described in {{% resource_link "d22ca341-bacd-4bcf-8c8b-d01279d34a40" "Beall's own blog post" %}} and the {{% resource_link "79950a94-8923-492a-96b3-5207a7cf99ba" "corresponding publisher's notice" %}}. Let's just say that you should consider your sources very carefully, and look for your own warning signs of low quality, predatory publishing practices, or something not sounding right.
+*   {{% resource_link "7935f0e7-8c4f-4cfa-862c-fb92363e03fb" "LyX" %}}  
     Use this graphical front-end to LaTeX as a happy compromise between Word's ease of use and LaTeX's robustness.
-*   [LaTeX Tutorial](http://www.latex-tutorial.com/)  
+*   {{% resource_link "5d833c11-10de-4894-aef8-7a58a7a270d3" "LaTeX Tutorial" %}}  
     A site to easily help you learn LaTeX for scientific writing.
-*   [ShareLaTeX](https://www.sharelatex.com/)  
+*   {{% resource_link "69a5d213-6a52-4053-b1b8-d385834e2a59" "ShareLaTeX" %}}  
     Use this collaborative, cloud-based LaTeX editor to work on your documents in real-time with your advisor.
-*   [JabRef](http://www.jabref.org/)  
+*   {{% resource_link "13090655-27e2-4ae4-9cee-d1e6b651b6c2" "JabRef" %}}  
     A lightweight BiBTeX reference manager that integrates seamlessly with LaTeX and LyX.
-*   [Mendeley](https://www.mendeley.com/)  
+*   {{% resource_link "83a66960-da0a-4b01-80ec-70a11ffbb259" "Mendeley" %}}  
     A tool to organize and annotate PDFs and export citations.
-*   [Zotero](https://www.zotero.org/)  
+*   {{% resource_link "4c44b38f-9d59-4a3b-91e6-cb49c4c50c9a" "Zotero" %}}  
     A tool to find, organize, and cite bibliographic references.
