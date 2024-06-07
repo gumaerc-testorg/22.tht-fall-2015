@@ -2,6 +2,7 @@
 content_type: resource
 description: Example thesis prospectus written by a prior student of the course.
 file: /courses/22-tht-undergraduate-thesis-tutorial-fall-2015/a600f6e0867f03f5ef02337a1ee382bf_MIT22_THTF15_prosp_sam4.pdf
+file_size: 870580
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -115,7 +115,7 @@ Communication Lab Reviews
 {{< tdopen >}}
 
 
-Make an appointment with one of the fellows in the {{% resource_link "c77faab5-7077-484a-9a34-61e6cca391be" "NSE Communication Lab" %}}, for the purposes of reading through your thesis prospectus and outline for content and overall structure.
+Make an appointment with one of the fellows in the [NSE Communication Lab](http://web.mit.edu/nse/education/commlab/), for the purposes of reading through your thesis prospectus and outline for content and overall structure.
 
 Revise your prospectus and outline according to the suggestions by the Communication Lab fellow(s).
 
@@ -161,7 +161,7 @@ WRAP Review
 {{< tdopen >}}
 
 
-Schedule an appointment with MIT's {{% resource_link "5cd90755-efe8-4450-85bf-1faef4c97674" "Writing, Rhetoric, and Professional Communication (WRAP) Program" %}} to go over your thesis prospectus, outline, and intro / background sections.
+Schedule an appointment with MIT's [Writing, Rhetoric, and Professional Communication (WRAP) Program](http://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) to go over your thesis prospectus, outline, and intro / background sections.
 
 Submit the comments and suggestions from the WRAP here, along with a revised version of any documents for which the WRAP has requested a revision. We will separately ask the WRAP for confirmation that you attended a session. Confirmation of attendance is required to receive a grade for this assignment.
 
