@@ -34,7 +34,7 @@ This interactive seminar guides students through various aspects of choosing, pr
 
 ### Requirements Satisfied
 
-{{% resource_link "0fff7732-a3c1-4bdd-8f7d-a70f088f1511" "Nuclear Science and Engineering bachelor’s degree requirement" %}}
+[Nuclear Science and Engineering bachelor’s degree requirement](https://catalog.mit.edu/degree-charts/nuclear-science-engineering-course-22/)
 
 ### Offered
 
@@ -126,4 +126,4 @@ During an average week, students were expected to spend 3 hours on the course, r
 
 ### Out of Class
 
-Students drafted and revised their prospectuses in consultation with Graduate Fellows in the {{% resource_link "c77faab5-7077-484a-9a34-61e6cca391be" "NSE Communication Lab" %}} and {{% resource_link "5cd90755-efe8-4450-85bf-1faef4c97674" "WRAP" %}} staff.
+Students drafted and revised their prospectuses in consultation with Graduate Fellows in the [NSE Communication Lab](http://web.mit.edu/nse/education/commlab/) and [WRAP](http://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) staff.
