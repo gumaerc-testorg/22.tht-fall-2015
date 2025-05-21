@@ -3,7 +3,7 @@ content_type: resource
 description: 'Example of student work: a senior thesis on treatment of neutron resonance
   elastic scattering using multipole representation of cross sections in Monte Carlo
   simulations.'
-file: /ol-ocw-studio-app/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/6458e8288e0a4877c03b6851cd993083_MIT22_THTF15_prosp_ex1.pdf
+file: /courses/22-tht-undergraduate-thesis-tutorial-fall-2015/6458e8288e0a4877c03b6851cd993083_MIT22_THTF15_prosp_ex1.pdf
 file_size: 960350
 file_type: application/pdf
 learning_resource_types:
