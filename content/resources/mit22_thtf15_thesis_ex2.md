@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example thesis written by a prior student of the course.
-file: /ol-ocw-studio-app/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/5f57eef3e92c932c747bb8faf5413b0d_MIT22_THTF15_thesis_ex2.pdf
+file: /courses/22-tht-undergraduate-thesis-tutorial-fall-2015/5f57eef3e92c932c747bb8faf5413b0d_MIT22_THTF15_thesis_ex2.pdf
 file_size: 895843
 file_type: application/pdf
 learning_resource_types: []
